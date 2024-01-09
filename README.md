@@ -5,6 +5,7 @@
 2. Read EMHASS docs to familiarize yourself with the concepts
 3. [Nordpool](https://github.com/custom-components/nordpool) integration installed
 4. [Solcast](https://github.com/oziee/ha-solcast-solar) integration installed
+5. [Solar Assistant](https://solar-assistant.io/) configured
 
 ## Nordpool setup
 1. Create Nordpool sensor without additional costs. Rename it to sensor.nordpool_sell and use EUR/kWh
